@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This repository serves as a showcase of my wor
 
 ## About Me
 
-I'm a new software developer with a background in project management. I enjoy problem solving and exploring new technologies.
+I'm a new software developer with a background in project management. I enjoy problem solving and learning new technologies.
 
 ## Projects
 
@@ -33,7 +33,7 @@ Description: TODO
 
 ## Contact
 
-Feel free to reach out! You can contact me via email at dcypherdesign@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/david-callez/) and [Twitter](https://twitter.com/johndoe).
+Feel free to reach out! You can contact me via email at dcypherdesign@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/david-callez/) and [Twitter](https://twitter.com/TODO).
 
 ## Resume
 
