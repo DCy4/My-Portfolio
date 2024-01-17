@@ -20,6 +20,7 @@ Description: TODO
 - HTML5, CSS3
 - Node.js
 - Express.js
+- React
 - SQL
 - Git
 - Python
@@ -31,9 +32,13 @@ Description: TODO
 - School: Florida International University
 - Year: 2019
 
+- Degree: Certificate
+- School: Monterey Peninsula College
+- Year: 2023
+
 ## Contact
 
-Feel free to reach out! You can contact me via email at dcypherdesign@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/david-callez/) and [Twitter](https://twitter.com/TODO).
+Feel free to reach out! You can contact me via email at dcypherdesign@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/david-callez/).
 
 ## Resume
 
