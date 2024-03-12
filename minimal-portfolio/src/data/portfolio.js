@@ -1,8 +1,8 @@
 export default [
     {
-        title: 'Weather App',
+        title: 'Book Buddy',
         imgUrl: 'public/assets/san-fran.jpg',
-        stack: ['React', 'JavaScript'],
+        stack: ['React', 'Redux', 'API'],
         link: 'Link to website'
     }, 
     {
