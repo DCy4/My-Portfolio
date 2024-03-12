@@ -1,5 +1,5 @@
 export default [
-    {
+    {   
         year: '2023 - Present',
         title: 'Operations Support Specialist',
         duration: '1+ years',
@@ -14,12 +14,6 @@ export default [
     {
         year: '2021',
         title: 'First Line of Code',
-        duration: '1+ years',
-        details: 'TODO'
-    },
-    {
-        year: 'today',
-        title: 'Operations Support Specialist',
         duration: '1+ years',
         details: 'TODO'
     }

@@ -1,5 +1,5 @@
 export default [
-    {
+    {   
         title: 'Book Buddy',
         imgUrl: 'public/assets/san-fran.jpg',
         stack: ['React', 'Redux', 'API'],
