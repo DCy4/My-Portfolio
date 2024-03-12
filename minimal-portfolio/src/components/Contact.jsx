@@ -1,4 +1,5 @@
 import React from "react";
+import Title from "./Title";
 
 function Contact() {
     return (
@@ -39,3 +40,5 @@ function Contact() {
        </div>
     )
  }
+
+export default Contact;
